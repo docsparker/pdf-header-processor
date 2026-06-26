@@ -1,0 +1,17 @@
+{
+  "replacements": {
+    "Old Chapter Title": "New Chapter Title",
+    "Old Section": "New Section",
+    "Draft Version": "Final Version",
+    "Company A": "Company B"
+  },
+  "output_dir": "./output",
+  "num_workers": 4,
+  "dry_run": false,
+  "preserve_formatting": true,
+  "lines_to_check": 5,
+  "case_sensitive": true,
+  "use_regex": false,
+  "backup_originals": true,
+  "log_level": "INFO"
+}

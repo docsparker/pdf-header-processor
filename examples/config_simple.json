@@ -1,0 +1,13 @@
+{
+  "replacements": {
+    "DRAFT": "FINAL",
+    "Version 1.0": "Version 2.0",
+    "Internal Use Only": "Public Release"
+  },
+  "output_dir": "./output",
+  "num_workers": 4,
+  "dry_run": false,
+  "lines_to_check": 5,
+  "case_sensitive": true,
+  "use_regex": false
+}
